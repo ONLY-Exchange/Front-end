@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const initData = {
-    pre_heading: "OnlyExchange",
+    pre_heading: "OnlyExchange2",
     heading: "Discover, collect, and sell extraordinary NFTs",
     content: "Explore on the world's best & largest NFT marketplace",
     btn_1: "Explore",
@@ -22,7 +22,7 @@ class Hero extends Component {
             <section className="hero-section">
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 col-lg-7">
+                        <div size="35" className="col-12 col-md-6 col-lg-7">
                             <span>{this.state.data.pre_heading}</span>
                             <h1 className="mt-4">{this.state.data.heading}</h1>
                             <p>{this.state.data.content}</p>
