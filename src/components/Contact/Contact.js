@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 const initData = {
     pre_heading: "Contact",
     heading: "Get In Touch",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit."
+    content: "Please don't hesitate to reach out to us for any reason what-so-ever!  We promise to get back with you as soon as possible."
 }
 
 class Contact extends Component {

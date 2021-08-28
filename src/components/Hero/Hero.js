@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const initData = {
-    pre_heading: "OnlyExchange2",
+    pre_heading: "OnlyExchange",
     heading: "Discover, collect, and sell extraordinary NFTs",
     content: "Explore on the world's best & largest NFT marketplace",
     btn_1: "Explore",

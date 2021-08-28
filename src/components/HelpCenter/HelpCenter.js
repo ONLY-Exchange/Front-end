@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 const initData = {
     pre_heading: "Help Center",
     heading: "How can we help you?",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit."
+    content: "We have provided the resources below so that you may peruse at your leisure.  If you don't happen to find the answer to your question, please do not hesitate to reach out to us."
 }
 
 const data = [
@@ -11,7 +11,7 @@ const data = [
         id: "1",
         icon: "icon icon-plane text-effect",
         title: "Getting Started",
-        content: "Learn how to create an account, set up your wallet, and what you can do on NetStorm"
+        content: "Learn how to create an account, set up your wallet, and what you can do on ONLY!Exchange"
     },
     {
         id: "2",
@@ -23,7 +23,7 @@ const data = [
         id: "3",
         icon: "icon icon-handbag text-effect",
         title: "Buying",
-        content: "Learn how to purchase your first NFT and understand gas fees and what's gas free on NetStorm"
+        content: "Learn how to purchase your first NFT and understand gas fees and what's gas free on ONLY!Exchange"
     },
     {
         id: "4",
@@ -41,7 +41,7 @@ const data = [
         id: "6",
         icon: "icon icon-flag text-effect",
         title: "Developers",
-        content: "Learn how you can develop with NetStorm &amp; sell them on Marketplace"
+        content: "Learn how you can develop with ONLY!Exchange"
     }
 ]
 
