@@ -1,12 +1,14 @@
 ## ONLY!Exchange
 
+### Author
+McKay Stevenson -
+- Github: [@Ester800](https://github.com/Ester800)
+- LinkedIn: [C. McKay Stevenson](www.linkedin.com/in/christian-mckay-stevenson)
+See also the list of contributors who participated in this project.
+
+Please contact me via mckay800@gmail.com if you're interested in seeing the code work.
+
 An NFT marketplace where users can create, buy, sell and trade NFTs.
-
-### Getting Started
-
-1. run npm init - intializes the directory.
-2. run npm install - installs the appropriate packages.
-3. run npm start - runs the app in the development mode.  Open http://localhost:3000 to view it in the browser.
 
 Prerequisites
 Requirements for the software and other tools to build, test and push
@@ -24,11 +26,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 Versioning
 We use Semantic Versioning for versioning. For the versions available, see the tags on this repository.
 
-### Author
-McKay Stevenson -
-- Github: [@Ester800](https://github.com/Ester800)
-- LinkedIn: [C. McKay Stevenson](www.linkedin.com/in/christian-mckay-stevenson)
-See also the list of contributors who participated in this project.
+
 
 ## 🤝 Contributing
 
